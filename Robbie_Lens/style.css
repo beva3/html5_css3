@@ -1,6 +1,18 @@
 a{
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
     color: black;
+    text-decoration: none;
 }
-span{
-    color: #A5B4FC;
+em {
+    color: #a5b4fc;
+}
+h1{
+    font-size: 3.5em;
+    color: #a5b4fc;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-size: 1.1em;
+    font-family: 'Manrope', sans-serif;
 }
