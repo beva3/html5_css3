@@ -6,3 +6,4 @@ lien : https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-h
 [8] integrer le css dans la page
 [9] changer l'aparence du text
 [9] changer l'aparence du text
+[10] Ajoutez de la couleur et un fond
