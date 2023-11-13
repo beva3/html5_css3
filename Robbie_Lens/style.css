@@ -38,6 +38,8 @@ li{
 
 body{
     background-color:#1F2039 ;
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
 }
 .cta{
     background: linear-gradient(#8e86b5, #acaeed);
