@@ -30,3 +30,20 @@ header{
     font-weight: bold;
     font-size: 2rem;
 }
+
+ul{
+    list-style: none;
+    float: right;
+    display: flex;
+    margin-top: 20px;
+}
+
+ul li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    /*text-transform: uppercase;*/
+    border: 1px solid #fff;
+    margin: 10px;
+
+}
