@@ -88,3 +88,12 @@ ul li.active a{
     border: 1px solid #fff;
     padding: 10px 60px;
 }
+
+.btn{
+    transition: 00.6s ease;
+}
+
+.btn:hover{
+    background: #fff;
+    color: #000;
+}
