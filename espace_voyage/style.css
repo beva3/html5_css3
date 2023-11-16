@@ -49,3 +49,8 @@ ul li a{
     transition: 0.6s ease;
 }
 
+ul li a:hover{
+    background: #fff;
+    color: #000;
+}
+
