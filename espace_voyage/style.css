@@ -45,5 +45,7 @@ ul li a{
     /*text-transform: uppercase;*/
     border: 1px solid #fff;
     margin: 10px;
-
+    font-weight: 500;
+    transition: 0.6s ease;
 }
+
