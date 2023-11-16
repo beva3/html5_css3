@@ -59,3 +59,7 @@ ul li.active a{
     color: #000;
 }
 
+.principale{
+    max-width: 144rem;
+    margin: 0 auto;
+}
