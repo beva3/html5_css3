@@ -33,12 +33,14 @@ li {
 .entete,
 .pied-de-page {
     background-color: white;
+    padding: 20px 0px 0px 50px;
 }
 
 .cta {
     background: linear-gradient(#8e86b5, #acaeed);
     color: white;
     border-radius: 50px;
+    padding: 20px 30px;
 }
   
 a:hover {
@@ -54,4 +56,22 @@ a:hover {
 .lien-icone:hover {
     opacity: 0.5;
 }
-  
+
+section{
+    padding: 80px;
+}
+
+.carre-contenu{
+    padding: 50px;
+    border-right: 1px solid #8e86b5;
+    border-bottom: 1px solid #8e86b5;
+}
+
+.carre-contenu h2 {
+    margin-top: 30px;
+}
+
+.a-propos-main {
+    width: 50%;
+    margin: auto;
+}
