@@ -9,3 +9,5 @@ lien : https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-h
 [10] Ajoutez de la couleur et un fond
 [11] Créez des bordures et des ombres
 [12] Créez des apparences dynamiques
+[13] quiz
+[14] Structurez votre page
