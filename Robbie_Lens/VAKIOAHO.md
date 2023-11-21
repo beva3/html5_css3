@@ -12,3 +12,4 @@ lien : https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-h
 [13] quiz
 [14] Structurez votre page
 [15] Découvrez le modèle des boîtes
+[16] Faites votre mise en page avec Flexbox
