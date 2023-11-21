@@ -54,13 +54,23 @@ body{
     color: rgb(12, 236, 120);
     font-size: 12px;
 }
-.connecter input{
+.connecter{
+    display: flex;
+    justify-content: space-between;
+}
+.connecter input,a{
     color: #fff;
-    font-size: 12px;
+    font-size: 16px;
     background-color: rgba(128, 255, 0, 0.742);
     border-radius: 30px;
-    padding: 5px;
+    padding: 8px;
     border: 1px;
+}
+.connecter a{
+    text-decoration: none;
+}
+.connecter a:hover{
+    background-color: rgb(19, 126, 234);
 }
 .connecter input:hover{
     color: rgba(128, 255, 0, 0.742);
