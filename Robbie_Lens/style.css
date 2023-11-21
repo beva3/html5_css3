@@ -84,6 +84,10 @@ nav {
     justify-content: space-between;
 }
 
+nav a{
+    padding: 30px;
+}
+
 .accueil-photos{
     background-color: white;
     padding: 80px;
