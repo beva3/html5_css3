@@ -46,5 +46,23 @@ body{
     border-bottom: 1px solid #fff;
     outline: none;
     background: transparent;
-    transition: .5s;
+    transition: 0.5s;
+}
+.user-box input:focus ~ label,
+.user-box input:valid ~ label{
+    top: -20px;
+    color: rgb(12, 236, 120);
+    font-size: 12px;
+}
+.connecter input{
+    color: #fff;
+    font-size: 12px;
+    background-color: rgba(128, 255, 0, 0.742);
+    border-radius: 30px;
+    padding: 5px;
+    border: 1px;
+}
+.connecter input:hover{
+    color: rgba(128, 255, 0, 0.742);
+    background-color: rgb(19, 126, 234);
 }
